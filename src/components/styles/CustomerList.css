@@ -1,0 +1,25 @@
+.customer-list {
+  width: 100%;
+  max-width: 600px;
+}
+
+.customer-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.customer-list li {
+  background-color: #298aec;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.customer-list li strong {
+  font-size: 1.2em;
+}
+
+.customer-list li em {
+  color: burlywood;
+}
